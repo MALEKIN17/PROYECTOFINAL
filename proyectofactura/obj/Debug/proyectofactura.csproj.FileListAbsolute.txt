@@ -1,0 +1,138 @@
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.AssemblyReference.cache
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmingreso.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.Properties.Resources.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.GenerateResource.cache
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\proyectofactura.exe.config
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\proyectofactura.exe
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\proyectofactura.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.exe
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmempleado.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmpropietario.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistroempleados.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.Form1.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmedicionservicios.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistropropietario.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\ENTIDADES.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\LOGICAS.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\DATOS.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Text.Json.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Memory.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.ValueTuple.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Buffers.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\ENTIDADES.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\LOGICAS.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\DATOS.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\DATOS.dll.config
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Text.Json.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Memory.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.ValueTuple.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Buffers.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.SuggestedBindingRedirects.cache
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.exe.config
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.CopyComplete
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmopcionvista.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistroservicio.resources
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistrocliente.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.AssemblyReference.cache
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.Form1.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmopcionvista.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistropropietario.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmedicionservicios.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmempleado.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmingreso.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmpropietario.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistroempleados.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmregistroservicio.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.Properties.Resources.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.GenerateResource.cache
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.CoreCompileInputs.cache
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.exe
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\proyectofactura.exe.config
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\proyectofactura.exe
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\proyectofactura.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\ENTIDADES.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\LOGICAS.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\DATOS.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Text.Json.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Memory.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.ValueTuple.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Buffers.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\ENTIDADES.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\LOGICAS.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\DATOS.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\DATOS.dll.config
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Text.Json.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Memory.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.ValueTuple.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Buffers.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.csproj.CopyComplete
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmfacturascliente.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmfactura.resources
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.barcodes.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.commons.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.forms.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.io.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.kernel.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.layout.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.pdfa.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.sign.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.styledxmlparser.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.svg.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itextsharp.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Newtonsoft.Json.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\LOGICAS.dll.config
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.barcodes.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.commons.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.forms.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.io.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.kernel.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.layout.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.pdfa.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.sign.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.styledxmlparser.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itext.svg.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\itextsharp.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\Newtonsoft.Json.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\proyectofactura\obj\Debug\proyectofactura.frmcrearfactura.resources

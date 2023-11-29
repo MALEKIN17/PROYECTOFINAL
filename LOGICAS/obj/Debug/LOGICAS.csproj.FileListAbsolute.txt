@@ -1,0 +1,66 @@
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\obj\Debug\LOGICAS.csproj.AssemblyReference.cache
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\obj\Debug\LOGICAS.csproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\LOGICAS.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\LOGICAS.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\DATOS.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\ENTIDADES.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Text.Json.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Memory.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.ValueTuple.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Buffers.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\DATOS.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\DATOS.dll.config
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\ENTIDADES.pdb
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Text.Json.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Memory.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.ValueTuple.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Buffers.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\obj\Debug\LOGICAS.csproj.CopyComplete
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\obj\Debug\LOGICAS.dll
+C:\Users\santa\Documents\Visual Studio 2022\proyectofactura\LOGICAS\obj\Debug\LOGICAS.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\LOGICAS.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\LOGICAS.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\DATOS.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\ENTIDADES.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Text.Json.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Memory.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.ValueTuple.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Buffers.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\DATOS.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\DATOS.dll.config
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\ENTIDADES.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Text.Json.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Memory.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.ValueTuple.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Buffers.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\obj\Debug\LOGICAS.csproj.AssemblyReference.cache
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\obj\Debug\LOGICAS.csproj.CoreCompileInputs.cache
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\obj\Debug\LOGICAS.csproj.CopyComplete
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\obj\Debug\LOGICAS.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\obj\Debug\LOGICAS.pdb
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\LOGICAS.dll.config
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\itextsharp.dll
+C:\Users\santa\Desktop\PORSIACASO\proyectofactura\LOGICAS\bin\Debug\itextsharp.xml
